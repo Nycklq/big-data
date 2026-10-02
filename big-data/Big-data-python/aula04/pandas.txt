@@ -1,0 +1,20 @@
+Pandas -> É uma biblioteca python criada para facilitar a manipulacao e analise de dados.
+
+Ela fornece estruturas de dados poderosas quer permitem trabalhar com dados tabulares de maneira rapida e eficiente.
+
+Principais vantagens do Pandas:
+    Eficiencia,
+    Flexibilidade,
+    Leitura de arquivos,
+    Integracao,
+    Funcoes e Estatistica
+
+Diferenca entre os metodos head() e tail():
+    head() -> Mostra as primeiraan linhas (por padrao 5)
+    Tail() -> Mostra as ultimas n linhas (por padrao 5)
+
+O que faz o metodo describe():
+    Ele gera um resumo estatistico das colunas numericas do DataFrame
+
+Como acessar uma coluna especifica no DataFrame:
+    print(df["Nome]) -> o nome tem que ser o nome exato da coluna

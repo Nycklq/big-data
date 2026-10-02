@@ -1,0 +1,14 @@
+                            Plataformas em Nuvem para aplicacoes
+                            
+Computacao em nuvem é o termo usado para se referir a uma categoria de servicos de computacao na internet sob demanda
+
+DevOps -> Pessoa responsavel gerenciar a infraestrutura na nuvem
+
+Os modelos mais comuns de prestacao de servicos na nuvem sao:
+    SaaS
+    PaaS 
+    IaaS 
+    DaaS
+    XaaS
+
+Tipos de nuvem sao: Nuvem public, Nuvem privada, Nuvem hibrida e Nuvem comunitaria

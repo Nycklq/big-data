@@ -1,0 +1,6 @@
+nome;idade;nota
+Ana;23;8.5
+Bruno;35;4.5
+Carlos;21;9.2
+Nicollas;19;8.5
+Sinde;23;9.0
